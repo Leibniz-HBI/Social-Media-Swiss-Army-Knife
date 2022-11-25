@@ -130,5 +130,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Pipfile.lock
-# credentials.py
+credentials.py
 .vscode/settings.json
