@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 pandas = "*"
+twarc = "*"
+twarc-csv = "*"
+flake8 = "*"
 
 [dev-packages]
 
